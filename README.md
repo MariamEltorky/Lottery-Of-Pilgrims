@@ -1,5 +1,5 @@
 # Lottery-Of-Pilgrims
-## The application is responsible for the following:
+### The application is responsible for the following:
 #####	Uploading the data of the candidates
 #####	Performing the lottery
 #####	Displaying the result of the lottery
